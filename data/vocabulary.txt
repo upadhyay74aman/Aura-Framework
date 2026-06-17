@@ -75,6 +75,7 @@ module
 my
 network
 neuron
+new
 nexus
 node
 node_0
