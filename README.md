@@ -1,7 +1,10 @@
 # AURA: Autonomous Vector-Space Auditing Framework
 
 
+DEMO video(couldn't configure gif perfectly so I am sticking with video):
+
 https://github.com/user-attachments/assets/71b4fe97-0ec8-46ad-aa53-18e505586973
+
 
 
 
