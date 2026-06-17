@@ -1,5 +1,14 @@
 # AURA: Autonomous Vector-Space Auditing Framework
 
+
+https://github.com/user-attachments/assets/71b4fe97-0ec8-46ad-aa53-18e505586973
+
+
+
+
+
+
+
 AURA is a local privacy auditing utility designed to stress-test vector embedding data streams against information leakage vulnerabilities, aligning with the OWASP LLM08 (Embedding Weaknesses) security standard.
 
 Vector embeddings are often treated as secure, one-way transformations. AURA demonstrates that embedding vectors retain strong semantic coordinates, allowing an attacker to reconstruct raw plaintext strings. The framework simulates a realistic black-box surrogate attack, applies Gaussian noise perturbations as a defense strategy, and charts the resulting privacy-utility frontier directly in the terminal.
