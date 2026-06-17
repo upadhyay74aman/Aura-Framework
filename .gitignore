@@ -1,0 +1,22 @@
+@'
+# Python bytecode caching folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local environment and dependency folders
+.venv/
+venv/
+env/
+ENV/
+dist/
+build/
+*.egg-info/
+
+# IDE configurations
+.vscode/
+.idea/
+'@ | Out-File -FilePath ".gitignore" -Encoding utf8
+
+Write-Host "[AURA SYS] .gitignore created successfully!"
